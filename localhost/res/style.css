@@ -1,0 +1,83 @@
+.formclass
+{
+    text-align: center;
+}
+.registerhead
+{
+    text-align: center;
+    font-family: Candara;
+    font-size: 30px;
+    color: whitesmoke;
+}
+.bodyregister
+{
+    background-color: black;
+}
+.pregister
+{
+    font-size: 15px;
+    font-family: Candara;
+    color: whitesmoke;
+}
+.buttonregister
+{
+    margin-top: 30px;
+    height: 50px;
+    width: 200px;
+    background-color: darkred;
+    color: whitesmoke;
+    font-size: 12px;
+    font-family: Candara;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+}
+.registerinput
+{
+    width: 200px;
+    height: 30px;
+
+}
+#page-wrap
+{
+    text-align: center;
+    background-color: black;
+}
+.quizheader
+{
+    font-family: Candara;
+    font-size: 30px;
+    color: whitesmoke;
+}
+.h3
+{
+    font-family: Candara;
+    font-size: 20px;
+    color: whitesmoke;
+}
+.liquiz1
+{
+    color: whitesmoke;
+}
+.submitbtn
+{
+    margin-top: 30px;
+    height: 50px;
+    width: 200px;
+    background-color: darkred;
+    color: whitesmoke;
+    font-size: 12px;
+    font-family: Candara;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+}
+*
+{
+    margin: 0px;
+
+}
+.results
+{
+    color: black;
+}
